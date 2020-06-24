@@ -567,3 +567,27 @@ ls --color=auto
 cd ..
 cd ..
 mv index.js client/src/
+mv styles.css client/src/
+find
+find
+find
+find
+mv index.js client/src/
+mv styles.css client/src/
+mv index.html client/src/
+rm lato.ttf
+rm menlo.otf
+rm roboto.woff
+find
+clear
+find
+cd client/
+ls --color=auto
+cd src
+ls --color=auto
+clear
+find
+cd ..
+find
+cd ..
+find
