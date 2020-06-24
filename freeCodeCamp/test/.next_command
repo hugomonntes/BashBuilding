@@ -230,3 +230,9 @@ mv roboto.woff fonts
 ls --color=auto
 cd website/
 mv roboto.woff fonts
+find
+ls --color=auto
+cd /workspace/project/website
+find
+clear
+find
