@@ -1,2 +1,3 @@
 clear
 ls --color=auto
+cd node_modules/
