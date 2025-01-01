@@ -82,3 +82,13 @@ clear
 more README.md
 __vsc_prompt_cmd_original
 ls --color=auto
+ls --color=auto -l
+clear
+more
+ls --color=auto
+more src
+cd src
+ls --color=auto
+cd ..
+ls --color=auto
+more LICENSE-MIT
