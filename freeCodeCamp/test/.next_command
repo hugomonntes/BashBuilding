@@ -139,3 +139,5 @@ ls --color=auto
 clear
 touch .gitignore
 ls --color=auto
+--help
+ls --color=auto --help
