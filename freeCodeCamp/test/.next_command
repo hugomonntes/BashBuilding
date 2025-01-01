@@ -81,3 +81,4 @@ README.md
 clear
 more README.md
 __vsc_prompt_cmd_original
+ls --color=auto
