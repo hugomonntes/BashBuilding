@@ -141,3 +141,5 @@ touch .gitignore
 ls --color=auto
 --help
 ls --color=auto --help
+clear
+ls --color=auto -a
