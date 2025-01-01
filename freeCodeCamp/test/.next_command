@@ -134,3 +134,7 @@ touch styles.css
 ñs
 ls --color=auto
 touch index.js
+rm style.css
+ls --color=auto
+clear
+touch .gitignore
