@@ -145,3 +145,6 @@ clear
 ls --color=auto -a
 __vsc_prompt_cmd_original
 cd .
+__vsc_prompt_cmd_original
+clear
+touch background.jpg
