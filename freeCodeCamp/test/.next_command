@@ -150,3 +150,4 @@ clear
 touch background.jpg
 __vsc_prompt_cmd_original
 touch header.png
+touch footer.jpeg
