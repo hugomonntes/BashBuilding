@@ -119,3 +119,4 @@ clear
 cd ..
 cd ../..
 ls --color=auto
+clear
