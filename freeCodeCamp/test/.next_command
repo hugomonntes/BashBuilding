@@ -115,3 +115,5 @@ ls --color=auto
 more index.js
 ls --color=auto /
 cd ..
+clear
+cd ..
