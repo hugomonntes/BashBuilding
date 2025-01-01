@@ -148,3 +148,5 @@ cd .
 __vsc_prompt_cmd_original
 clear
 touch background.jpg
+__vsc_prompt_cmd_original
+touch header.png
