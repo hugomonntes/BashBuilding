@@ -101,3 +101,4 @@ clear
 ls --color=auto
 ls --color=auto -l
 pwd
+ls --color=auto /
