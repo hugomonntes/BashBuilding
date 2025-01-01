@@ -155,3 +155,4 @@ __vsc_prompt_cmd_original
 clear
 ls --color=auto
 touch roboto.font
+touch lato.font
