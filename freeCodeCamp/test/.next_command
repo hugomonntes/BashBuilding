@@ -500,3 +500,10 @@ ls --color=auto
 ls --color=auto -l
 clear
 touch hola
+find
+cd fonts/
+find
+ls --color=auto
+cd ..
+ls --color=auto
+find
