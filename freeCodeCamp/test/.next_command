@@ -560,3 +560,10 @@ mkdir client
 mkdir client/src
 mv index.html client/src/
 find
+cd client/
+ls --color=auto
+cd src/
+ls --color=auto
+cd ..
+cd ..
+mv index.js client/src/
